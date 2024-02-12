@@ -1,0 +1,8 @@
+# Ignore bin, obj, .vscode, .vs, .config directories and .sln, and appsettings.json files
+**/bin/
+**/obj/
+**/.vscode/
+**/.vs/
+**/.config/
+**/*.sln
+**/appsettings.json
